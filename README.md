@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stamanor
-- 👀 I’m interested in Software Enginerring
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Bsc. Information Technology
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me +233244426824
