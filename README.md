@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Stamanor
+- 👋 Hi, I’m Simon Tetteh Amanor
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Bsc. Information Technology
+- 🌱 I’m currently learning Bsc.Information Technology
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me +233244426824
 
